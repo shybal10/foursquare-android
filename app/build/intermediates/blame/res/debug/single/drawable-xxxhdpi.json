@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\rating_selected.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\rating_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\map_icon.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\map_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\rating_icon.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\rating_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\close_icon_grey.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\close_icon_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\review_icon.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\review_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\back_icon.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\rating.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\rating.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\logout.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ruppe_btn1_selected.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ruppe_btn1_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\addphotoes.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\addphotoes.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\favourite_icon_copy.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\favourite_icon_copy.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ruppe_btn3_selected.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ruppe_btn3_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\filter_icon.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\filter_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ruppe_btn2.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ruppe_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\loading_xxxhdpi.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\loading_xxxhdpi.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\photos_icon.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\photos_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ruppe_btn3.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ruppe_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\menu_icon.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\sidemenu_background.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\sidemenu_background.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\close_icon.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\close_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\gtn.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\gtn.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\feedback.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\feedback.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ruppe_btn2_selected.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ruppe_btn2_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\facebook_btn.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\facebook_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\search_icon.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\near_me_xxxhdpi.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\near_me_xxxhdpi.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\distance.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\distance.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\filter_unselected.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\filter_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\about.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ruppe_btn4.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ruppe_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\favourite_icon.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\favourite_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\background.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\logo.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\splashscreen.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\splashscreen.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ruppe_btn4_selected.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ruppe_btn4_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\share_icon.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\popular_selected.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\popular_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\serch_xxxhdpi.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\serch_xxxhdpi.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\tick_xxxhdpi.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\tick_xxxhdpi.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\location_icon.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\location_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\filter_selected.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\filter_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\popular.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\popular.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ruppe_btn1.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ruppe_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\favourite_icon_selected.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\favourite_icon_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\distance_selected.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\distance_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\favourite.png",
+        "source": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\src\\main\\res\\drawable-xxxhdpi\\favourite.png"
+    }
+]

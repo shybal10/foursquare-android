@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    app:theme="@style/AppTheme.NoActionBar"
+    tools:context="com.example.shybal.projectapp.SinglePhotoActivity"
+
+    tools:showIn="@layout/activity_single_photo">
+
+    <ImageView
+        android:id="@+id/photo_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+      />
+
+    <android.support.design.widget.AppBarLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:paddingTop="24dp"
+        android:background="@color/cardview_shadow_start_color">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+
+            <ImageButton
+                android:onClick="returnToParent"
+                android:id="@+id/back_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="22dp"
+                android:background="@drawable/close_icon" />
+
+            <TextView
+                android:id="@+id/hotel_name"
+                android:layout_width="150dp"
+                android:layout_height="30dp"
+                android:layout_marginLeft="65dp"
+                android:layout_marginTop="6dp"
+                android:textStyle="bold"
+                tools:text="Restaurant name"
+                android:maxLines="1"
+                android:gravity="center"
+                android:fontFamily="sans-serif"
+                android:textColor="#ffffff"
+
+                android:textSize="16.87dp" />
+
+            <ImageButton
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/share_icon"
+                android:fitsSystemWindows="true"/>
+
+
+        </LinearLayout>
+
+
+    </android.support.design.widget.AppBarLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/cardview_shadow_start_color">
+
+
+        <TextView
+            android:id="@+id/user_name_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="22dp"
+            android:layout_marginTop="12dp"
+            android:layout_toRightOf="@+id/user_image_view"
+            android:textColor="#ffff"
+            android:textSize="15.87dp"
+            tools:text="Sathish"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/user_name_view"
+            android:layout_marginLeft="22dp"
+            android:layout_marginTop="6dp"
+            android:layout_toRightOf="@id/user_image_view"
+            android:textColor="#ffff"
+            android:id="@+id/date_text_view"
+            android:textSize="15.87dp"
+            tools:text="date of addition" />
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/user_image_view"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:src="@drawable/background"
+            >
+        </de.hdodenhof.circleimageview.CircleImageView>
+
+    </RelativeLayout>
+    </RelativeLayout>

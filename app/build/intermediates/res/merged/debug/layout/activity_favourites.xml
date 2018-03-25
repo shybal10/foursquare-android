@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.shybal.projectapp.FavouritesActivity">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background"/>
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:paddingTop="24dp"
+        android:background="@color/cardview_shadow_end_color"
+        android:id="@+id/action_bar">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageButton
+                android:onClick="returnToParent"
+                android:id="@+id/back_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="22dp"
+                android:background="@drawable/back_icon"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Favourites"
+                android:textStyle="bold"
+                android:maxLines="1"
+                android:fontFamily="sans-serif"
+                android:textColor="#ffffff"
+                android:textSize="16.87dp"
+                android:layout_marginLeft="110dp"/>
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="100dp"
+                android:background="@drawable/filter_icon"
+                android:fitsSystemWindows="true"
+                android:id="@+id/filter_icon"/>
+        </LinearLayout>
+
+        <android.support.v7.widget.SearchView
+
+            android:id="@+id/btn_searchVenue"
+            android:layout_width="250dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="15dp"
+            android:background="#FFFFFF"
+            android:gravity="center">
+
+        </android.support.v7.widget.SearchView>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:background="#e0e0e0"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/restaurant_details"
+        android:layout_marginTop="98dp">
+
+
+
+
+    </android.support.v7.widget.RecyclerView>
+
+
+</RelativeLayout>

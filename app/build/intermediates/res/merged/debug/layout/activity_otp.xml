@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="24dp"
+    android:paddingLeft="24dp"
+    android:paddingRight="24dp"
+    android:paddingTop="24dp"
+    android:background="@drawable/background"
+    tools:context="com.example.shybal.projectapp.OtpActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="72dp"
+        android:id="@+id/logo"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text= "@string/we_have_sent_you_an_otp_n_please_enter_it_below_text"
+        android:textSize="18sp"
+        android:fontFamily="roboto_regular"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/logo"
+        android:layout_marginTop="45dp"
+        android:textColor="#ffff"
+        android:id="@+id/text_view"
+        android:textAlignment="center"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/enter_otp_text"
+        android:textColor="#ACA7A9"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/text_view"
+        android:textSize="13sp"
+        android:layout_marginTop="44dp"
+        android:id="@+id/otp_view" />
+    <EditText
+        android:layout_width="wrap_content"
+        android:backgroundTint="@android:color/transparent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        tools:text="1234"
+        android:textColor="#ffff"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/otp_view"
+        android:layout_marginTop="10dp"
+        android:id="@+id/otp_field"
+        android:maxLines="1"
+        android:cursorVisible="true"
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/otp_field"
+        android:background="#ACA7A9"
+        android:id="@+id/view"
+
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/resend_otp_button"
+        android:textColor="#ACA7A9"
+        android:textSize="13sp"
+        android:layout_below="@+id/view"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="37dp"
+        android:id="@+id/resend_otp"
+        android:background="@android:color/transparent" />
+    <Button
+        android:onClick="showGeneratePasswordPage"
+        android:layout_width="314dp"
+        android:layout_height="44dp"
+        android:text = "@string/get_in_button"
+        android:textColor="#ffff"
+        android:textAllCaps="false"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/button_border"
+        android:layout_below="@+id/resend_otp"
+        android:id="@+id/get_in_button"
+        android:layout_marginTop="37dp"
+        />
+
+
+
+</RelativeLayout>
+

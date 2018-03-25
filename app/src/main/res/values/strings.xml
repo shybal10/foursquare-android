@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Project App</string>
+    <string name="skip_button">Skip</string>
+    <string name="app_logo_image">app_logo</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="forgot_password_button">Forgot password?</string>
+    <string name="login_button">Login</string>
+    <string name="create_account_button">Create Account</string>
+    <string name="or_text">OR</string>
+    <string name="we_have_sent_you_an_otp_n_please_enter_it_below_text">We have sent you an OTP.  Please enter it below</string>
+    <string name="enter_otp_text">Enter OTP</string>
+    <string name="resend_otp_button">RESEND OTP</string>
+    <string name="get_in_button">Get in!</string>
+    <string name="submit_button">Submit</string>
+    <string name="confirm_password_label">Confirm Password</string>
+    <string name="enter_password_label">Enter password</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="favourite_button">Favourites</string>
+    <string name="coffee_button">Coffee</string>
+    <string name="lunch_button">Lunch</string>
+    <string name="popular_button">Popular</string>
+    <string name="top_pick_button">Top pick</string>
+    <string name="near_you_button">Near you</string>
+    <string name="facebook_app_id">530358397354689</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="filter">filter_button</string>
+    <string name="search_button">search</string>
+</resources>

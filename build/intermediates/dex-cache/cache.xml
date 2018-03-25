@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\5634a9fbcbcb6e227025275ac4e25f8121104bd6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_27a05bfbe27c515b0e15c44a0484cf5e3aba98f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\5fd49896297ebd9bf330f12f14095bebeda8911a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f20faba4f9ef1c2129980a4984b2e1f3cb4c2f1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\6ec359f79cf655157316b0727dba14530a482bd0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="32aa1b2a2f68f455403d10d41d8ded37c9812f11">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8377141bd93578f10fef21a1caf5e94526d68e1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\7e166b82b06fdfca159d1495faafebb0e57c8e62\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8748e15968514ff1708deb3bb7f0c17623e50bbb">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2e88c908f520eebdf54efb8a15c23a1f598aef3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\0db1f37ec330ff0c9a6371cd2016ce4855d1cae8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b95f2bf44857a158b097e9f80d5d18d69f32584">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_640593991fab074db1530513f6d42260f24ab2ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\4cea1cc6553d8b04e661d9ca69c9fc72c2fb483c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e0f082141b7aa90aab5d3a47ab09b0edc958f6b">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c5418f1ac4d5276ff44ee18a7379e3490d9bc0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\50d467a18c006dce7fe1751905c8b4e3b630a130\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4eeba61bbc47e49a5fbdfd9aa21af5d10bf4df7c">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b62bb14004c7eb603563bd8301bef4dba810b3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\2a21f837ab4cc8ee8c737e031acbbbe2137d0b82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d2d27edb6fbc12fdf28008cdff920e66f08cf159">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_128248d2968cd862816a308bf21785840b0f7b7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\c7ebb102546dc0f687757190b177380b21529280\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88ae4c6ceaeab7beca5e396e0698c6958e26a2d2">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c31c77af143f91b8c29a79f9ccf6c5aa14d3770\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\9570a22917e06235a40a7fa06037eebb7cec22e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02e70fe04e0767ccfa16745b3398816d1171f0ad">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_87b61dade9cdc802c80b296364d8c19bab953ac1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\4354a14515bd64d0c1896819d5636dc57c41ba7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="688809418e4c2b5014a028c02708d6aeaba466ff">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f278982fad1b5b25fd7a2a282bb3f65291c6fa2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\aae99241d5a928b9e803552eaa4c33d17c1d9e74\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d66b8668122393a15c90471c5c974c25439d193a">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_713ec005fa0548a36ad6378b1e56dfe7d57b4c55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\a30c887b0889bc00dcf382cec09e0ae219eaf98f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fdf15d202000492aefe43092b21af5332df0178">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c5c4aa61ed1d32d553a9abb61c8d6dc9c6f21d68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\8c832bc21c8a076d8d96b9f7366d4f828de65ed8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="143e5647b772c08c9f0d807b24bbc0b05ff6c7d2">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a883c894e496d180554f7d093d7707f8993b16b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\64a8dbb36aa039dbf6fed9fca0ce42302db863fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d72eb1ceff1b0bac4916088eb44bb93f86b1265c">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4efbd2391a94762c0e356ff3631e791be9a37cb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\1ccb344cecc18f0d81eefc97082333451cd131a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c01990d0a9bbc67f4c2b9610c1170046c2e37b3e">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15d0d76103ec97848aa4074d0bde751ec15910da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\d89b95dde43fca11d6f2c6fb628ed6878cab878f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3237e9cc6c918d16b1d8475f8422f72c021a2451\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\89c7c45e4cf13ee42299d55502c2df1b67ed3cce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="287051610dd01cc6eeaed7fc689712c31ad1ff70">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd48abc7b32fe401ebadac639e3007ef624d524d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\33070a5fdbb7484368597562667d4c4e490e4843\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80ecaefc1035fde747999e4c20e18d207363efa2">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_364788435261f230a5bb626dc260ed7a827da4cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\7ece8f1afa28930eae34483136a2414868dcf144\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c76804333008c855433cad5cfd1256e86045e97b">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a7ca59f9ba5f60c44c1e1a0d6ba38e56745e248f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\15cb29ee132ec62eea3914e3e293b72a2e02b6ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93094dbb2af50e23339620bebd7b4b6161410edb">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d29f7b4ed25f04c520c0bd3baa215e725804143\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\6ed4b4955d6e9f183b91cb634d52fa8f0a18c626\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b6100fb5c3bbf92623bc1769b8bba8ab39961ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\0680980d3c2da500ef558ae5e337785980ebc483\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cba8868595f6aaff54cf7d1798591108cf5611c">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c8dd59e31dc7b3d9d688f28be8f410812f56679b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\e70d0e1565cd3d970c988751cb4e9dd17518c8c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2b4d3ecd541814f08200f8171def113095d5f39">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f50c7f4d375d4c20414bf2413d062b01b8362109\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\5ba51d830544dbe4222ede69f17cabbb126974a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b50fe5288bba9d1635ba619bd3c308319205543e">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a4ed8a9dca3307e550f9d176c758c5ea4b088964\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\7ca5fd52766153d865c186c705f9d3beb524a3c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="acc7a846f0bc56ecccda535fc919fd338b2b3e2c">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b2f3e0ae08a8da213d5f2a17dc18a2cfffb6f15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\31201557873bc40769d8e1385bcb7e3a6e20f759\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c8a4af7cf76d958c76ed7682f39e4b386b69305">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_61622eeea960b42eb68d5c6d24c597b902556630\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\7c29ec18afe1c353d3266583151f9c33ca393cb7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a75030f7a3f5f96a15acdab44829bed93154d09f">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4110aab312ce3340f956e55d26f4888f6c0f6450\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\333e6c27ea9234ddd9e18ef512b64bdab33f8824\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="597d0d34e15e713c486e8f4ccf739f0c7d05bde4">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc3c3ef4bdb2a9c1518766c0a228b354639918bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\70d55a25fb3742b5e509aac270028eb80ad21db6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90236fba9ac4dfb1f4196e231aab964522143ef6">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a38e4569d7173f441a3ddd902de019c4c704067\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\7c941ac408633d647642e108b024535e412f7743\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29d9916bd9ad8406a53edbafbbce5e18943aa882">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ab9e0c4da024c69aa80c5e28bc5a3b8c7a32c39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\82abdb101fae09faa930d72f59fd3934ca00b28c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9c8affe1f564ec0d063be68469d26e972455217">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_23125111bdb2339022e0f095ed1b5ea5e6713cc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\03faee652b9d257f006b26e2eb1c597ac794faab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b8ad09b76c4ffaedf443ca54bc2418760870689">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7da985e3e4a87dadc771e25566cecaa8760399d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\34a118709eca5892b410b23d48e4fa03167483ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dde643ce80b967f869e9b111255815ba4d391653">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3c43938ec4632209a4820366c0c9b8e5a2da8ad1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\624cc793caee7c33ddf8308300033a73d1e9d4cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98ac18f891a8279ae57c4771cbf4a2a65f95b04c">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ba09620cd21ba0e752725ddd66cf01bcc58ea61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\2d4929b8c434a57226eb37fa7923cfc27d0ebbb3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e23941db151e67886844de6586e180bb2b860ad">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_51f9881fef9d33fa05d6a083cd1957c768b3d964\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\acb073b942e3e5674048045ade459d7421071100\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="610ae6a6872d9718fc05e2c726758206bd367595">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0216c6b1982b2e695e73f0d3add9f73b7b0effae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\f5c45a1f430dae584d655f475d8981e1c37a8e3d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fe159787dd4c4bc9ed6a9d4f7430e9af1f3516c8">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da8042dbda23e0060acd4e6070f2be701756bdce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\019eb4792422821451d2703f72de18d896aa8beb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2188ba20a948ec6e7fa671b818c69d876d8bf32d">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2af9bf8291101d69433f67b7e16a872b0fcf7d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\86b9b7bf2410778267126af185096149b71f3177\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b8d1a53648f7ecfe9e7bf0baf9ca657c5a1ff91">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29a3d4074a22b8cfa136ca496e96f089f0b777e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\67c47e877ec4895a5b00229f1f06362938db728d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="657abe17c5ba58f5d24803ba303c6005b180897a">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a5f1bdff6986d6c295b1af8f796ffde51a6bc025\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\04b273f27c3fa3c1acb6aeb8f447f7368cfa30eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa6a6e385297077a344e0bb95ab6c22f22119261">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_533df18a749ba97d7c0f6e4d38e11d145bd2b12e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\e114e0c84940eb384c8b5d06523b3bfb42e7c400\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ed7ba48801a0a361727833ade3b6cf096968cc0">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d803925f64482dcd33eb27d1f9d8fe2a481b72e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\304474b17bb1eb75352f5cabaada0d84541101a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29e4e634375ab2ed25f8db5387b564c78980422a">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d26291843269dd4ee74bbb26f1aa5d269fde8405\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\523dbeabba15023dd4b099fac4635e00afdbe293\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="701c58abf53f488bc5bb0162f1305a38a32fb5f1">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_53b75637874c87bf2ee1ec76791b1063ce14be01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\9fca0b6832757295b41105a3b75c6ca53db5328d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="54933c89f90a872aa342004e82b23e776fe12736">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae1473ec5d1cd404bbbacf99d1a236f6d40589eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\7d83b59df6228f7782878b5461abd60b866adcbd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43df709c95f6b0501b3adbc7da992b6a69a03214">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ccc6eb719f0b96a993e6e19873575eb9937a3fe1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHYBAL\.android\build-cache\55b22ae979614c916fbdd209c77549e3e7245d69\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="183e4fb7cf95f4fa54963cfcdaf0f4d7e2397bad">
+        <dex dex="C:\Users\SHYBAL\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a791ccd3ef14f97f6cf06c819b95e77470f5dce9\classes.dex" />
+    </item>
+
+</items>

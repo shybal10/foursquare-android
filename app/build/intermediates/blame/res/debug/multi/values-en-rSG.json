@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\SHYBAL\\AndroidStudioProjects\\ProjectApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\SHYBAL\\.android\\build-cache\\7ca5fd52766153d865c186c705f9d3beb524a3c2\\output\\res\\values-en-rSG\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 244,
+                        "endColumn": 99,
+                        "endOffset": 343
+                    }
+                }
+            }
+        ]
+    }
+]
